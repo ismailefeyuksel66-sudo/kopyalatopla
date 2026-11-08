@@ -1,0 +1,11 @@
+Package: kopyalatopla
+Version: 1.2.1
+Section: video
+Priority: optional
+Architecture: all
+Maintainer: Gelistirici <kullanici@domain.com>
+Depends: python3 (>= 3.8), python3-pyqt5, yt-dlp, ffmpeg
+Description: KopyalaTopla - yt-dlp ve ffmpeg tabanlı gelişmiş video ve ses indirme uygulaması.
+ 4K, 2K, 1080p ve diğer tüm kalitelerde video/ses indirme, altyazı, kapak fotoğrafı,
+ açıklama dosyası ve özel yt-dlp komut çalıştırma desteği sunar.
+
