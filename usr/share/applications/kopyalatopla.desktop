@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=KopyalaTopla
+Comment=yt-dlp ve ffmpeg tabanlı gelişmiş video indirme aracı
+Exec=/usr/bin/kopyalatopla
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Video;Player;Network;
